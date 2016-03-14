@@ -18,6 +18,7 @@ and train datasets.
   + HARdf is the data from getcombineddata() ("step 4" data)
   + HARmeansdf is the summary dataset containing averages from HARdf for each subject and activity ("step 5 data")
 
+_Note: the script requires the dplyr package to be installed._
 
 ###Usage: 
 * If you do not already have the data, run dldataset() and then doprocessing()
